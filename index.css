@@ -1,4 +1,7 @@
 h1{
-  colour: blue
+  colour: rgb(11, 11, 131)
   font-size: 5em;
+}
+p{
+  colour: rgb(6, 100, 155)
 }
