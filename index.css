@@ -4,4 +4,9 @@ h1{
 }
 p{
   colour: rgb(6, 100, 155)
+  font-size: 2em;
+}
+a{
+  colour: rgb(15, 105, 96)
+  font-size: 2em;
 }
