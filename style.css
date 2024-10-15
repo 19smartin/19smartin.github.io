@@ -1,12 +1,12 @@
-h1{
+.Header1{
   colour: rgb(11, 11, 131)
-  font-size: 5em;
+  font-size; 30px;
 }
 p{
   colour: rgb(6, 100, 155)
-  font-size: 2em;
+  font-size; 12px;
 }
 a{
   colour: rgb(15, 105, 96)
-  font-size: 2em;
+  font-size; 12px;
 }
