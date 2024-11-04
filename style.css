@@ -5,6 +5,7 @@
 .Paragraph1{
   color: rgb(255, 255, 255);
   font-size: 18px;
+  font-family: cursive;
 }
 .Link{
   color: rgb(255, 255, 255);
@@ -20,6 +21,7 @@
 .Paragraph2{
   color: rgb(255, 255, 255);
   font-size: 18px;
+  font-family: cursive;
 }
 .Header3{
   color: rgb(255, 255, 255);
@@ -28,6 +30,7 @@
 .Paragraph3{
   color: rgb(255, 255, 255);
   font-size: 18px;
+  font-family: cursive;
 }
 body{
   background: rgb(34,175,195);
