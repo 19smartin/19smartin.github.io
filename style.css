@@ -10,6 +10,9 @@
   color: rgb(255, 255, 255);
   font-size: 12px;
 }
+.Link:hover{
+  color: navy;
+}
 .Header2{
   color: rgb(255, 255, 255);
   font-size: 30px;
