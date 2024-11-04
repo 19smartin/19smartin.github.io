@@ -4,11 +4,11 @@
 }
 .Paragraph1{
   color: rgb(255, 255, 255);
-  font-size: 12px;
+  font-size: 18px;
 }
 .Link{
   color: rgb(255, 255, 255);
-  font-size: 12px;
+  font-size: 18px;
 }
 .Link:hover{
   color: navy;
@@ -19,7 +19,7 @@
 }
 .Paragraph2{
   color: rgb(255, 255, 255);
-  font-size: 12px;
+  font-size: 18px;
 }
 .Header3{
   color: rgb(255, 255, 255);
@@ -27,7 +27,7 @@
 }
 .Paragraph3{
   color: rgb(255, 255, 255);
-  font-size: 12px;
+  font-size: 18px;
 }
 body{
   background: rgb(34,175,195);
