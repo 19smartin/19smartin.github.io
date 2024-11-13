@@ -36,3 +36,8 @@ body{
   margin: auto;
   text-align: center;
 }
+html{
+  border-width: 90%;
+  border-color: navy;
+  border-style: solid;
+}
