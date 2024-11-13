@@ -37,6 +37,7 @@ body{
   text-align: center;
 }
 html{
+  border: 2cm;
   border-width: 90%;
   border-color: navy;
   border-style: solid;
